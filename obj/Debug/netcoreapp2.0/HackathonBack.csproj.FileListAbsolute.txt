@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\HackathonBack\bin\Debug\netcoreapp2.0\HackathonBack.deps.json
+c:\Users\Administrator\Desktop\HackathonBack\bin\Debug\netcoreapp2.0\HackathonBack.runtimeconfig.json
+c:\Users\Administrator\Desktop\HackathonBack\bin\Debug\netcoreapp2.0\HackathonBack.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\HackathonBack\bin\Debug\netcoreapp2.0\HackathonBack.dll
+c:\Users\Administrator\Desktop\HackathonBack\bin\Debug\netcoreapp2.0\HackathonBack.pdb
+c:\Users\Administrator\Desktop\HackathonBack\obj\Debug\netcoreapp2.0\HackathonBack.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\HackathonBack\obj\Debug\netcoreapp2.0\HackathonBack.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\HackathonBack\obj\Debug\netcoreapp2.0\HackathonBack.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\HackathonBack\obj\Debug\netcoreapp2.0\HackathonBack.dll
+c:\Users\Administrator\Desktop\HackathonBack\obj\Debug\netcoreapp2.0\HackathonBack.pdb
