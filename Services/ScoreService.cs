@@ -24,8 +24,6 @@ namespace Services
 
         public async Task<List<ScoreTable>> GetByID(int id)
         {
-            //var objectNews = _context.News.Where(p => p.Source.ToUpper().Contains(source.ToUpper()));
-            //News objectNews = _context.News.Where(p => p.Source.ToUpper().Contains(source.ToUpper()));
             ScoreTable objectScore = await _context.ScoreTable.FirstOrDefaultAsync(pi => pi.ID == id);
             List<ScoreTable> product = new List<ScoreTable>();
             try

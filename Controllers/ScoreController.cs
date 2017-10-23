@@ -20,7 +20,6 @@ namespace Controllers
         }
 
         [HttpGet]
-        //[Route("user/all")]
         public Task<List<ScoreTable>> GetAll()
         {
             return _scoreService.Get();
@@ -33,7 +32,6 @@ namespace Controllers
         }
 
         [HttpPost]
-        //[Route("user/add")]
         public void PostNew([FromBody] ScoreTable item)
         {
             _scoreService.Post(item);
